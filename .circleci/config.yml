@@ -29,5 +29,5 @@ workflows:
     jobs:
       - say-hello
   example-workflow:
-      jobs:
-        - node/run
+    jobs:
+      - node/run
